@@ -61,7 +61,7 @@ h1 {
     display: block;
 }
 
-.button {
+.button1 {
     color: #fff;
     background-color: #000;
     padding-top: 16px !important;
@@ -76,6 +76,78 @@ h1 {
     text-align: center;
     cursor: pointer;
     white-space: nowrap;
+}
+
+.button2 {
+    color: #fff;
+    background-color: #000;
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+    display: block;
+    width: 100%;
+    user-select: none;
+    border: none;
+    padding: 8px 16px;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.button3 {
+    color: #fff;
+    background-color: #000;
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+    display: block;
+    width: 100%;
+    user-select: none;
+    border: none;
+    padding: 8px 16px;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.button4 {
+    color: #fff;
+    background-color: #000;
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+    display: block;
+    width: 100%;
+    user-select: none;
+    border: none;
+    padding: 8px 16px;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+
+.button1:hover {
+    color: #fff;
+    background-color: #607d8b;
+}
+
+.button2:hover {
+    color: #fff;
+    background-color: #009688;
+}
+
+.button3:hover {
+    color: #fff;
+    background-color: #616161;
+}
+
+.button4:hover {
+    color: #fff;
+    background-color: #795548;
 }
 
 .container-1 {
